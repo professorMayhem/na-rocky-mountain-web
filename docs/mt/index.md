@@ -1,21 +1,22 @@
 # Rocky Mountain Regional ICPC Host Site
 
-# Brigham Young University (BYU)
+# Montana Technological University
 
 ## SITE LOCATION
 
 ### Main Address
 
 ```
-TBD
+1300 West Park Street
+Butte, MT 59701
 ```
 
 ### Contest Location
 
-TBD
+Natural Resources Building (NRB)
 ### PARKING
 
-TBD
+Park in the lot North of the Building.  Use the North Entrance to the building.
 
 ## CHECK-IN TIME AND LOCATION
 
@@ -62,7 +63,7 @@ TBD
 
 ## FOOD
 
-TBD
+Food will be provided during the contest.
 
 ### Menu
 
