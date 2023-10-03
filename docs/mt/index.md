@@ -25,14 +25,14 @@ TBD
 ## CONTEST SCHEDULE
 
 TBD
-## Friday, March 24
+## Friday, November 3
 
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
 | 6:00-7:00 PM |     | Check in                |
 | 7:00-9:00 PM |     | Official practice time  |
 
-## Saturday, March 25
+## Saturday, November 4
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
