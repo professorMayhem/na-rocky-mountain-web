@@ -30,15 +30,15 @@ TBD
 | Time         |     | Activity                |
 | ------------ | --- | ----------------------- |
 | 6:00-7:00 PM |     | Check in                |
-| 7:00-9:00 PM |     | Official practice time  |
+| 7:00-8:00 PM |     | Official practice time  |
 
 ## Saturday, November 4
 
 | Time       |     | Activity                              |
 | ---------- | --- | ------------------------------------- |
-| 8:30-9:30  |     | Late check-in  |
-| 9:30-9:50  |     | Meeting for all contestants           |
-| 10:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
+| 9:30-10:30 |     | Late check-in                         |
+| 10:30-10:50|     | Meeting for all contestants           |
+| 11:00-3:00 |     | COMPETITION / Lunch provided at 12:00 |
 | 3:00-3:30  |     | Results calculation                   |
 | 3:30-4:15  |     | Snacks and results announcement       |
 
